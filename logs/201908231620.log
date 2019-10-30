@@ -1,0 +1,6 @@
+2019-08-23 16:20:56,184 - BrowserEngine - INFO - you had select Firefox browser
+2019-08-23 16:20:56,184 - BrowserEngine - INFO - The test server URL is: https://testcamp.purang.com 
+2019-08-23 16:21:04,226 - BrowserEngine - INFO - Starting Firefox browser.
+2019-08-23 16:21:05,303 - BrowserEngine - INFO - Open url is: https://testcamp.purang.com 
+2019-08-23 16:21:05,307 - BrowserEngine - INFO - Maximize the current window.
+2019-08-23 16:21:05,315 - BrowserEngine - INFO - Set implicitly wait 10 seconds.
