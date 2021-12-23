@@ -4,6 +4,4 @@ browserName = 'Firefox'
 #browserName = 'Chrome'
 #browserName = 'IE'
 
-#URL = 'https://www.baidu.com'
-#URL = www.google.com
-URL = 'https://testcamp.purang.com'
+URL = 'https://www.baidu.com'
